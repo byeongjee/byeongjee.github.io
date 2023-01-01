@@ -208,6 +208,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll/scholar
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -251,6 +252,29 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Jekyll-Scholar
+scholar:
+  first_name: Byeongjee
+
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibliography.html
+  details_link: Details
+
+  query: "@*"
 
 # Defaults
 defaults:
