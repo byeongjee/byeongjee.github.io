@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "About"
+    url: /
   - title: "CV"
     url: https://www.dropbox.com/s/r3x9pbgic00eh3e/cv.pdf?dl=0
   - title: "Posts"
