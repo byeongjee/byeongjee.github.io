@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "publications"
+title: "Publications"
 years: [2022]
 ---
 
