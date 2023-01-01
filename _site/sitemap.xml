@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://silver-bullet.dev/philosophy/spacetime/</loc>
+<loc>http://localhost:4000/philosophy/spacetime/</loc>
 <lastmod>2022-04-16T00:00:00+09:00</lastmod>
 </url>
 <url>
-<loc>https://silver-bullet.dev/philosophy/field/</loc>
+<loc>http://localhost:4000/philosophy/field/</loc>
 <lastmod>2022-06-11T00:00:00+09:00</lastmod>
 </url>
 <url>
-<loc>https://silver-bullet.dev/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>https://silver-bullet.dev/posts/</loc>
+<loc>http://localhost:4000/posts/</loc>
 </url>
 <url>
-<loc>https://silver-bullet.dev/publications/</loc>
+<loc>http://localhost:4000/publications/</loc>
 </url>
 </urlset>
