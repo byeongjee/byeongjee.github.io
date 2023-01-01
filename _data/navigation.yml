@@ -2,7 +2,7 @@
 main:
   - title: "CV"
     url: https://www.dropbox.com/s/r3x9pbgic00eh3e/cv.pdf?dl=0
-  - title: "Blog"
-    url: /blog/
+  - title: "Posts"
+    url: /posts/
   - title: "Publications"
     url: /publications/
