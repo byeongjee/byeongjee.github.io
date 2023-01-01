@@ -205,7 +205,7 @@ $$\epsilon$$-로렌츠 변환식은 흔히 알려진 표준 로렌츠 변환식�
 부정하는 것이 더 나은 이해를 가져다준다. 원통형 시공간에서 일어나는
 상대론적 시간 지연 현상은 로렌츠 변환을 사용할 때보다 빛의 일방향 속력이
 비대칭적이라고 가정한 상태로 새로운 변환식을 유도할 때 더 쉽게 이해할 수
-있다. [@cylinder] 원통형 시공간에서 빛의 일방향 속력이 균일하다고
+있다. 원통형 시공간에서 빛의 일방향 속력이 균일하다고
 가정하고 로렌츠 변환을 사용하는 경우 하나의 사건에 대해 무한히 많은 시간
 좌표가 결정되거나 명백히 동시에 일어나지 않은 두 사건이 같은 시간 좌표를
 가지는 등, 직관적으로 이해하기 어려운 현상이 발생한다. 하지만 빛의
@@ -274,7 +274,6 @@ $$1$$미터가 될 수도 있고 $$3.28$$피트가 될 수도 있다는 사실�
 것이며, 더 나은 이해의 여지를 포기하는 것이다.
 
 # 참고문헌
-1.  Chunghyoung Lee. Simultaneity in cylindrical spacetime. American Journal of Physics,
-88(2):131–136, 2020.
+1. Chunghyoung Lee. Simultaneity in cylindrical spacetime. American Journal of Physics, 88(2):131–136, 2020.
 2. Tim Maudlin. Philosophy of physics: Space and time 2012 princeton univ.
 3. Wesley C. Salmon. Space, Time, and Motion: A Philosophical Introduction. University of Minnesota Press, 1980.
