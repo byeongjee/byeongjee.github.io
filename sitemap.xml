@@ -1,24 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://www.silver-bullet.dev/philosophy/spacetime/</loc>
-<lastmod>2022-04-16T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.silver-bullet.dev/philosophy/field/</loc>
-<lastmod>2022-06-11T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://www.silver-bullet.dev/</loc>
-</url>
-<url>
-<loc>https://www.silver-bullet.dev/posts/</loc>
-</url>
-<url>
-<loc>https://www.silver-bullet.dev/publications/</loc>
-</url>
-<url>
-<loc>https://www.silver-bullet.dev/googlea121a330115e6cfd.html</loc>
-<lastmod>2023-01-15T06:21:54+00:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>https://www.silver-bullet.dev/philosophy/field/</loc>
+    </url>
+    
+    <url>
+        <loc>https://www.silver-bullet.dev/philosophy/spacetime/</loc>
+    </url>
+    
+
+    
+    
+    
+    <url>
+        <loc>https://www.silver-bullet.dev/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://www.silver-bullet.dev/assets/js/lunr/lunr-en.js</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://www.silver-bullet.dev/assets/js/lunr/lunr-gr.js</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://www.silver-bullet.dev/assets/js/lunr/lunr-store.js</loc>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://www.silver-bullet.dev/posts/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://www.silver-bullet.dev/publications/</loc>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 </urlset>
