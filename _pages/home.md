@@ -6,8 +6,11 @@ title: "Byeongjee Kang"
 
 Hi, welcome to my website.
 
-I am an undergraduate student at [POSTECH](https://www.postech.ac.kr/eng/), double major in computer science and mathematics. 
-My primary research interests are programming languages, logic, software verification, software engineering, and distributed systems.
+I am a propsective graduate student interested in programming languages, logic,
+software verification, software engineering, and distributed systems. I
+recently graduated from [POSTECH](https://www.postech.ac.kr/eng/) with a double
+major in computer science and mathematics, having achieved the highest
+GPA in my class.
 
 ## Education
 - B.S. in Computer Science and Engineering & Mathematics,
