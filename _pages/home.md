@@ -10,13 +10,13 @@ recently graduated from [POSTECH](https://www.postech.ac.kr/eng/) with a double
 major in computer science and mathematics. 
 
 ## News
-- Feb 10th, 2023: I graduated from POSTECH with The Founding Chairman’s Award,
+- **Feb 2023**: I graduated from POSTECH with The Founding Chairman’s Award,
 which is given to the undergraduate student with the highest overall GPA
 ([news](https://www.postech.ac.kr/eng/everyones-a-hero-no-valedictorian-at-postechs-commencement-ceremony/?pageds=1&k=&c=)).
 You can read my interview here:
 ([kor](https://times.postech.ac.kr/news/articleView.html?idxno=22456),
 [en](http://times.postech.ac.kr/news/articleView.html?idxno=22432)).
-- December 1st, 2022: My paper *Symbolic Reachability Analysis of Distributed Systems using Narrowing and Heuristic Search* was published in FTSCS ([doi](https://dl.acm.org/doi/10.1145/3563822.3568017)).
+- **December 2022**: My paper *Symbolic Reachability Analysis of Distributed Systems using Narrowing and Heuristic Search* was published in FTSCS ([doi](https://dl.acm.org/doi/10.1145/3563822.3568017)).
 
 ## Education
 - B.S. in Computer Science and Engineering & Mathematics,
