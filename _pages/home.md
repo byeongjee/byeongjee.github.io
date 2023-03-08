@@ -10,7 +10,7 @@ recently graduated from [POSTECH](https://www.postech.ac.kr/eng/) with a double
 major in computer science and mathematics. 
 
 ## News
-- **Feb 2023**: I graduated from POSTECH with The Founding Chairman’s Award,
+- **Feb 2023**: I graduated from POSTECH with the Founding Chairman’s Award,
 which is given to the undergraduate student with the highest overall GPA
 ([news](https://www.postech.ac.kr/eng/everyones-a-hero-no-valedictorian-at-postechs-commencement-ceremony/?pageds=1&k=&c=)).
 You can read my interview here:
