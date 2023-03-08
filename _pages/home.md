@@ -4,8 +4,8 @@ author_profile: true
 title: "Byeongjee Kang"
 ---
 
-I am a propsective graduate student interested in programming languages, logic,
-software verification, software engineering, and distributed systems.  I
+I am a propsective graduate student interested in programming languages,
+formal methods, and distributed systems.  I
 recently graduated from [POSTECH](https://www.postech.ac.kr/eng/) with a double
 major in computer science and mathematics. 
 
