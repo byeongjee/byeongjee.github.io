@@ -1,7 +1,7 @@
 ---
 permalink: /
 author_profile: true
-title: "Byeongjee Kang"
+title: "About"
 ---
 
 I am a propsective graduate student interested in programming languages,
