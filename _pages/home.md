@@ -4,10 +4,10 @@ author_profile: true
 title: "About"
 ---
 
-I am a propsective graduate student interested in programming languages,
-formal methods, and distributed systems.  I
-recently graduated from [POSTECH](https://www.postech.ac.kr/eng/) with a double
-major in computer science and mathematics. 
+
+I am an incoming Software Engineering Ph.D. student at Carnegie Mellon. 
+My research interests span across programming languages, formal methods, and
+distributed systems. 
 
 ## News
 - **Feb 2023**: I graduated from POSTECH with the Founding Chairman’s Award,
