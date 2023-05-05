@@ -31,7 +31,7 @@ You can read my interview here:
 - Software engineer at [Kodebox](https://kodebox.io/), *Jan 2020 — Dec 2021*
 - Research intern at [POSTECH Programming Language Laboratory](http://pl.postech.ac.kr/), *June 2018 — June 2019*
 
-See my [CV](https://www.dropbox.com/s/r3x9pbgic00eh3e/cv.pdf?dl=0) for more information.
+See my [CV](https://www.dropbox.com/s/mccax6eex2hdx43/cv.pdf) for more information.
 
 ## Publications
 
