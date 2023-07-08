@@ -33,9 +33,9 @@ You can read my interview here:
 
 See my [CV](https://www.dropbox.com/s/mccax6eex2hdx43/cv.pdf) for more information.
 
-## Publications
+## Publication
 
-See [Publications](/publications)
+See [Publication](/publication)
 
 
 

@@ -1,6 +1,6 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /publication/
+title: "Publication"
 years: [2022]
 ---
 
