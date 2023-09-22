@@ -25,7 +25,7 @@ You can read my interview here:
 
 ## Education
 - Ph.D. in Software Engineering, [Carnegie Mellon University](https://www.cmu.edu/),
-* Aug 2023 — Present*
+*Aug 2023 — Present*
 - B.S. in Computer Science and Engineering & Mathematics,
 [Pohang University of Science and Technology (POSTECH)](https://www.postech.ac.kr/eng/),
 *Feb 2018 — Feb 2023*
