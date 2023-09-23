@@ -100,7 +100,7 @@ analytics:
 # Site Author
 author:
   avatar: /assets/images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: byeongje (at) cs.cmu.edu
+  bio: byeongjee (at) cmu.edu
   links:
     - label: "Medium"
       icon: "fas fa-fw fa-envelope-square"
