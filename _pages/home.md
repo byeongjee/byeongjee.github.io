@@ -5,8 +5,7 @@ title: "About"
 ---
 
 
-I am a PhD student at School of Computer Science, Carnegie Mellon University,
-working with Prof. Umut Acar.
+I am a PhD student at Carnegie Mellon advised by [Prof. Umut Acar](https://www.umut-acar.org/).
 My research interests span across 
 quantum computing,
 parallel computing,
