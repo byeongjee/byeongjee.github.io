@@ -13,7 +13,7 @@ programming languages,
 and software engineering.
 
 ## News
-- **Aug 2023**: I started my PhD program at Carnegie Mellon University.
+- **Aug 2023**: I started Software Engineering PhD program at Carnegie Mellon University.
 - **Feb 2023**: I graduated from POSTECH with the Founding Chairman’s Award,
 which is given to the undergraduate student with the highest overall GPA
 ([news](https://www.postech.ac.kr/eng/everyones-a-hero-no-valedictorian-at-postechs-commencement-ceremony/?pageds=1&k=&c=)).
