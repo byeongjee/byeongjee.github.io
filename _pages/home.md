@@ -7,10 +7,10 @@ title: "About"
 
 I am a PhD student at Carnegie Mellon advised by [Prof. Umut Acar](https://www.umut-acar.org/).
 My research interests span across 
-quantum computing,
-parallel computing,
 programming languages,
-and software engineering.
+parallel computing,
+and
+formal methods.
 
 ## News
 - **Aug 2023**: I started Software Engineering PhD program at Carnegie Mellon University.
@@ -33,7 +33,6 @@ You can read my interview here:
 
 ## Experiences
 - Research intern at [POSTECH Software Verification Laboratory](http://sv.postech.ac.kr/), *Feb 2022 --- Dec 2022*
-- Member of [PDAO](https://github.com/postech-dao), *Jan 2023 --- Present*
 - Software engineer at [Kodebox](https://kodebox.io/), *Jan 2020 — Dec 2021*
 - Research intern at [POSTECH Programming Language Laboratory](http://pl.postech.ac.kr/), *June 2018 — June 2019*
 
