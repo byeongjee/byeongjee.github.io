@@ -13,7 +13,7 @@ and
 formal methods.
 
 ## News
-- **Feb 2024**: My paper *Narrowing and Heuristic Search for Symbolic Reachability Analysis of Concurrent Object-Oriented Systems* will be appear in Science of Computer Programming ([doi](https://doi.org/10.1016/j.scico.2024.103097))
+- **Feb 2024**: My paper *Narrowing and Heuristic Search for Symbolic Reachability Analysis of Concurrent Object-Oriented Systems* is accepted to Science of Computer Programming ([doi](https://doi.org/10.1016/j.scico.2024.103097))
 - **Aug 2023**: I started Software Engineering PhD program at Carnegie Mellon University.
 - **Feb 2023**: I graduated from POSTECH with the Founding Chairman’s Award,
 which is given to the undergraduate student with the highest overall GPA
