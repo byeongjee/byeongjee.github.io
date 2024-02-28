@@ -1,7 +1,7 @@
 ---
 permalink: /publication/
 title: "Publication"
-years: [2022]
+years: [2024, 2022]
 ---
 
 {% for y in page.years %}
