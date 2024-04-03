@@ -9,6 +9,7 @@ I am a PhD student at Carnegie Mellon advised by [Prof. Umut Acar](https://www.u
 My research interests span across 
 programming languages,
 parallel computing,
+software engineering,
 and
 formal methods.
 
