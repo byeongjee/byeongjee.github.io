@@ -6,3 +6,23 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.pubitem {
+  margin: 2em 0;
+  line-height: 1em;
+}
+
+.pubtitle {
+  line-height: 1.2em;
+  text-decoration: underline;
+  color: blue;
+  margin-bottom: 0.5em;
+}
+.pubauthor {
+  font-size: 90%;
+  margin-bottom: 0.5em;
+}
+.pubvenue {
+  font-size: 90%;
+  margin-bottom: 0.5em;
+}

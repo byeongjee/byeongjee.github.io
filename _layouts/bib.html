@@ -1,27 +1,12 @@
 ---
 ---
 
-<div class="text-justify">{{reference}}</div>
-
-{% if entry.note %}
-<div>
-  <em>{{ entry.note }}</em>
-</div>
-{% endif %}
-
-<div>
-  {% if entry.doi %}
-  <span><a href="{{ entry.doi | prepend: 'http://doi.org/' }}">doi</a></span>
-  {% endif %} {% if entry.hal_id %}
-  <span
-    ><a href="{{ entry.hal_id | prepend: 'http://hal.inria.fr/' }}"
-      >hal</a
-    ></span
-  >
-  {% endif %}
-</div>
-<div>
-  {% if entry.pdf %}
-  <span><a href="{{ entry.pdf }}">pdf</a></span>
-  {% endif %}
+<div class="pubitem">
+  <div class="pubtitle">
+    <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>
+  </div>
+  <div class="pubauthor">
+    {{ entry.author |replace_first: 'Byeongjee Kang', '<b>Byeongjee Kang</b>' }}
+  </div>
+  <div class="pubvenue">{{ entry.venue }}</div>
 </div>

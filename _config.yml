@@ -257,7 +257,6 @@ compress_html:
 scholar:
   first_name: Byeongjee
 
-  style: _bibliography/style.csl
   locale: en
 
   sort_by: year
