@@ -15,7 +15,7 @@ formal methods.
 
 ## Publications
 
-{% bibliography -g year --group_order descending --query !@unpublished %}
+{% bibliography --query !@unpublished %}
 
 ## Preprints
 {% bibliography --query @unpublished %}
