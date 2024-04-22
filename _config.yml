@@ -102,15 +102,18 @@ author:
   avatar: /assets/images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: byeongjee (at) cmu.edu
   links:
-    - label: "Medium"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "https://medium.com/@byeongjee"
-    - label: "Linkedin"
-      icon: "fa-linkedin"
-      url: "https://www.linkedin.com/in/byeongjee-kang-b883441a1/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/byeongjee"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.co.kr/citations?user=HBce5soAAAAJ&hl=en"
+    - label: "Linkedin"
+      icon: "fa-linkedin"
+      url: "https://www.linkedin.com/in/byeongjee-kang-b883441a1/"
+    - label: "Medium"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "https://medium.com/@byeongjee"
 
 # Site Footer
 footer:
