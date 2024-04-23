@@ -5,7 +5,7 @@ title: "About"
 ---
 
 
-I am a Software Engineering PhD student at Carnegie Mellon.
+I am a Software Engineering PhD student at Carnegie Mellon University.
 My research interests span across 
 programming languages,
 parallel computing,
