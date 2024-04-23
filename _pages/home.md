@@ -5,7 +5,7 @@ title: "About"
 ---
 
 
-I am a PhD student at Carnegie Mellon advised by [Prof. Umut Acar](https://www.umut-acar.org/).
+I am a Software Engineering PhD student at Carnegie Mellon.
 My research interests span across 
 programming languages,
 parallel computing,
