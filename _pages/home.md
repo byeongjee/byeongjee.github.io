@@ -17,8 +17,10 @@ formal methods.
 
 {% bibliography --query !@unpublished %}
 
+<!---
 ## Preprints
 {% bibliography --query @unpublished %}
+-->
 ## Education
 - Ph.D. in Software Engineering, [Carnegie Mellon University](https://www.cmu.edu/),
 *Aug 2023 — Present*
