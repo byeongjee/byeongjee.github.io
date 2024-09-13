@@ -5,13 +5,13 @@ title: "About"
 ---
 
 
-I am a Software Engineering PhD student at Carnegie Mellon University.
+I am a Software Engineering PhD student at Carnegie Mellon University
+advised by [Limin Jia](https://www.andrew.cmu.edu/user/liminjia/).
 My research interests span across 
+compilers,
 programming languages,
-parallel computing,
-software engineering,
-and
-formal methods.
+formal methods,
+and software engineering
 
 ## Publications
 
