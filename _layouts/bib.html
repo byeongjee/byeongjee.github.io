@@ -6,7 +6,8 @@
     <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>
   </div>
   <div class="pubauthor">
-    {{ entry.author |replace_first: 'Byeongjee Kang', '<b>Byeongjee Kang</b>' }}
+    {{ entry.authors |replace_first: 'Byeongjee Kang', '<b>Byeongjee Kang</b>'
+    }}
   </div>
   <div class="pubvenue">{{ entry.venue }}, {{ entry.year }}</div>
 </div>
