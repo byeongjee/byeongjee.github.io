@@ -38,3 +38,6 @@ and software engineering
 - Research intern at [POSTECH Programming Language Laboratory](http://pl.postech.ac.kr/), *June 2018 — June 2019*
 
 See my [CV](https://byeongjee.me/assets/cv.pdf) for more information.
+
+# Talks
+- [An MLIR Dialect for WebAssembly (WAW'25)](https://www.youtube.com/watch?v=z2xmzf8f5Ac)

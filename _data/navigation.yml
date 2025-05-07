@@ -8,5 +8,7 @@ main:
     url: /#education
   - title: "Experiences"
     url: /#experiences
+  - title: "Talks"
+    url: /#talks
   - title: "CV"
     url: /cv/
