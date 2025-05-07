@@ -33,9 +33,10 @@ and software engineering
 
 ## Experiences
 
-- Research intern at [POSTECH Software Verification Laboratory](http://sv.postech.ac.kr/), *Feb 2022 --- Dec 2022*
-- Software engineer at [Kodebox](https://kodebox.io/), *Jan 2020 — Dec 2021*
-- Research intern at [POSTECH Programming Language Laboratory](http://pl.postech.ac.kr/), *June 2018 — June 2019*
+- Research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/group/datasystems/), *May 2025 -- Jul 2025*
+- Research intern at [POSTECH Software Verification Laboratory](http://sv.postech.ac.kr/), *Feb 2022 -- Dec 2022*
+- Software engineer at [Kodebox](https://kodebox.io/), *Jan 2020 -- Dec 2021*
+- Research intern at [POSTECH Programming Language Laboratory](http://pl.postech.ac.kr/), *June 2018 -- June 2019*
 
 See my [CV](https://byeongjee.me/assets/cv.pdf) for more information.
 
