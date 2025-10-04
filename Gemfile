@@ -30,3 +30,5 @@ gem 'jekyll-redirect-from'
 group :jekyll_plugins do
     gem "jekyll-scholar"
 end
+
+gem "racc", "~> 1.7"

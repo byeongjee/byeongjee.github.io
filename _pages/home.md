@@ -6,12 +6,10 @@ title: "About"
 
 
 I am a Software Engineering PhD student at Carnegie Mellon University
-advised by [Dr. Limin Jia](https://www.andrew.cmu.edu/user/liminjia/).
-My research interests span across 
-compilers,
-programming languages,
-formal methods,
-and software engineering
+advised by [Prof. Limin Jia](https://www.andrew.cmu.edu/user/liminjia/).
+I develop programming language and compiler techniques for safe, efficient execution across heterogeneous
+systems. 
+
 
 ## Publications
 
@@ -30,7 +28,6 @@ and software engineering
 - B.S. in Computer Science and Engineering & Mathematics,
 [Pohang University of Science and Technology (POSTECH)](https://www.postech.ac.kr/eng/),
 *Feb 2018 — Feb 2023*
-
 - High school diploma, [Korea Science Academy of KAIST](https://ksa.hs.kr/Eng), *Feb 2015 — Feb 2018*
 
 
