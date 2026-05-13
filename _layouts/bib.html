@@ -3,20 +3,20 @@
 
 <div class="pubitem">
   {% if entry.url %}
-  <div class="pubtitle">
+  <p class="pubtitle">
     <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>
-  </div>
+  </p>
   {% else %} {{ entry.title }} {% endif %}
-  <div class="pubauthor">
+  <p class="pubauthor">
     {{ entry.authors |replace_first: 'Byeongjee Kang', '<b>Byeongjee Kang</b>'
     }}
-  </div>
-  <div class="pubvenue">
+  </p>
+  <p class="pubvenue">
     {% if entry.venue %}
     {{ entry.venue }}, {{ entry.year }}
     {% else %}
     {{ entry.year }}
     {% endif %}
-  </div>
-  <div class="pubnote">{% if entry.note %} {{ entry.note }} {% endif %}</div>
+  </p>
+  {% if entry.note %}<p class="pubnote">{{ entry.note }}</p>{% endif %}
 </div>
