@@ -7,23 +7,23 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.pubitem {
+.bib-entry {
   margin: 1em 0;
   line-height: 1em;
 }
 
-.pubitem p {
+.bib-entry p {
   margin: 0 0 0.5em;
 }
 
-.pubtitle {
+.bib-title {
   line-height: 1.2em;
   text-decoration: underline;
   color: blue;
 }
-.pubauthor {
+.bib-authors {
   font-size: 90%;
 }
-.pubvenue {
+.bib-venue {
   font-size: 90%;
 }
