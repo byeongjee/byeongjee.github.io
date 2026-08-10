@@ -6,7 +6,9 @@
   <p class="bib-title">
     <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>
   </p>
-  {% else %} {{ entry.title }} {% endif %}
+  {% else %}
+  <p class="bib-title bib-title-plain">{{ entry.title }}</p>
+  {% endif %}
   <p class="bib-authors">
     {{ entry.authors |replace_first: 'Byeongjee Kang', '<b>Byeongjee Kang</b>'
     }}
@@ -16,6 +18,9 @@
     {{ entry.venue }}, {{ entry.year }}
     {% else %}
     {{ entry.year }}
+    {% endif %}
+    {% if entry.code %}
+    <a class="bib-code" href="{{ entry.code }}" target="_blank">[code]</a>
     {% endif %}
   </p>
   {% if entry.note %}<p class="bib-note">{{ entry.note }}</p>{% endif %}
