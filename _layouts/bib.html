@@ -19,6 +19,7 @@
     {% else %}
     {{ entry.year }}
     {% endif %}
+    {% if entry.status %}({{ entry.status }}){% endif %}
     {% if entry.code %}
     <a class="bib-code" href="{{ entry.code }}" target="_blank">[code]</a>
     {% endif %}

@@ -15,9 +15,6 @@ programs on heterogeneous, resource-constrained devices.
 
 {% bibliography --query @inproceedings,@article %}
 
-## Under Review
-{% bibliography --query @misc %}
-
 ## Preprints
 {% bibliography --query @unpublished %}
 
