@@ -22,11 +22,11 @@ programs on heterogeneous, resource-constrained devices.
 
 ## Education
 - Ph.D. in Software Engineering, [Carnegie Mellon University](https://www.cmu.edu/),
-*Aug 2023 — Present*
+*Aug 2023 -- Present*
 - B.S. in Computer Science and Engineering & Mathematics,
 [Pohang University of Science and Technology (POSTECH)](https://www.postech.ac.kr/eng/),
-*Feb 2018 — Feb 2023*
-- High school diploma, [Korea Science Academy of KAIST](https://ksa.hs.kr/Eng), *Feb 2015 — Feb 2018*
+*Feb 2018 -- Feb 2023*
+- High school diploma, [Korea Science Academy of KAIST](https://ksa.hs.kr/Eng), *Feb 2015 -- Feb 2018*
 
 
 ## Experiences
@@ -64,7 +64,7 @@ blockchain engine based on composable module system
 - [An MLIR Dialect for WebAssembly (WAW'25)](https://www.youtube.com/watch?v=z2xmzf8f5Ac)
 
 ## Honors and Scholarships
-- ILJU Fellowship, ILJU Academy and Culture Foundation, *Aug 2023 — Jul 2028*
-- Program for Highly Dedicated Students, POSTECH, *Feb 2018 — Feb 2023*
+- ILJU Fellowship, ILJU Academy and Culture Foundation, *Aug 2023 -- Jul 2028*
+- Program for Highly Dedicated Students, POSTECH, *Feb 2018 -- Feb 2023*
 - Presidential Science Scholarship, Ministry of Education of Korea,
-*Feb 2018 — Feb 2023*
+*Feb 2018 -- Feb 2023*
