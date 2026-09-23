@@ -95,3 +95,8 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+
+
+### Bundler ###
+.bundle/
+vendor/
