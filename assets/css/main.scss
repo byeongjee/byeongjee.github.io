@@ -25,11 +25,10 @@
   text-decoration: none;
   color: inherit;
 }
-.bib-authors {
-  font-size: 90%;
-}
-.bib-venue {
-  font-size: 90%;
+.bib-entry .bib-authors,
+.bib-entry .bib-venue,
+.bib-entry .bib-note {
+  font-size: 80%;
 }
 .bib-note {
   font-style: italic;
