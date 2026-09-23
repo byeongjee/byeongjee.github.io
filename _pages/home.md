@@ -15,8 +15,10 @@ programs on heterogeneous, resource-constrained devices.
 
 {% bibliography --query @inproceedings,@article %}
 
+{% comment %}
 ## Preprints
 {% bibliography --query @unpublished %}
+{% endcomment %}
 
 ## Education
 - Ph.D. in Software Engineering, [Carnegie Mellon University](https://www.cmu.edu/),
